@@ -1,0 +1,14 @@
+C:\Users\thang\source\repos\NPL.M.A001\NPL.M.A001.Excercise2\bin\Debug\net8.0\NPL.M.A001.Excercise2.exe
+C:\Users\thang\source\repos\NPL.M.A001\NPL.M.A001.Excercise2\bin\Debug\net8.0\NPL.M.A001.Excercise2.deps.json
+C:\Users\thang\source\repos\NPL.M.A001\NPL.M.A001.Excercise2\bin\Debug\net8.0\NPL.M.A001.Excercise2.runtimeconfig.json
+C:\Users\thang\source\repos\NPL.M.A001\NPL.M.A001.Excercise2\bin\Debug\net8.0\NPL.M.A001.Excercise2.dll
+C:\Users\thang\source\repos\NPL.M.A001\NPL.M.A001.Excercise2\bin\Debug\net8.0\NPL.M.A001.Excercise2.pdb
+C:\Users\thang\source\repos\NPL.M.A001\NPL.M.A001.Excercise2\obj\Debug\net8.0\NPL.M.A001.Excercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thang\source\repos\NPL.M.A001\NPL.M.A001.Excercise2\obj\Debug\net8.0\NPL.M.A001.Excercise2.AssemblyInfoInputs.cache
+C:\Users\thang\source\repos\NPL.M.A001\NPL.M.A001.Excercise2\obj\Debug\net8.0\NPL.M.A001.Excercise2.AssemblyInfo.cs
+C:\Users\thang\source\repos\NPL.M.A001\NPL.M.A001.Excercise2\obj\Debug\net8.0\NPL.M.A001.Excercise2.csproj.CoreCompileInputs.cache
+C:\Users\thang\source\repos\NPL.M.A001\NPL.M.A001.Excercise2\obj\Debug\net8.0\NPL.M.A001.Excercise2.dll
+C:\Users\thang\source\repos\NPL.M.A001\NPL.M.A001.Excercise2\obj\Debug\net8.0\refint\NPL.M.A001.Excercise2.dll
+C:\Users\thang\source\repos\NPL.M.A001\NPL.M.A001.Excercise2\obj\Debug\net8.0\NPL.M.A001.Excercise2.pdb
+C:\Users\thang\source\repos\NPL.M.A001\NPL.M.A001.Excercise2\obj\Debug\net8.0\NPL.M.A001.Excercise2.genruntimeconfig.cache
+C:\Users\thang\source\repos\NPL.M.A001\NPL.M.A001.Excercise2\obj\Debug\net8.0\ref\NPL.M.A001.Excercise2.dll
